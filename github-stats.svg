@@ -10,22 +10,22 @@
 <text x="400" y="100" fill="#a9fff5" font-size="18" font-weight="700">123</text>
 <text x="48" y="131" fill="#f1df58" font-size="21" font-weight="700">✦</text>
 <text x="78" y="131" fill="#a9fff5" font-size="17" font-weight="600">Total Commits (2026):</text>
-<text x="400" y="131" fill="#a9fff5" font-size="18" font-weight="700">1,288</text>
+<text x="400" y="131" fill="#a9fff5" font-size="18" font-weight="700">1,291</text>
 <text x="48" y="162" fill="#f1df58" font-size="21" font-weight="700">✦</text>
 <text x="78" y="162" fill="#a9fff5" font-size="17" font-weight="600">Total PRs:</text>
-<text x="400" y="162" fill="#a9fff5" font-size="18" font-weight="700">256</text>
+<text x="400" y="162" fill="#a9fff5" font-size="18" font-weight="700">257</text>
 <text x="48" y="193" fill="#f1df58" font-size="21" font-weight="700">✦</text>
 <text x="78" y="193" fill="#a9fff5" font-size="17" font-weight="600">Total Issues:</text>
 <text x="400" y="193" fill="#a9fff5" font-size="18" font-weight="700">2</text>
 <text x="48" y="224" fill="#f1df58" font-size="21" font-weight="700">✦</text>
 <text x="78" y="224" fill="#a9fff5" font-size="17" font-weight="600">Contributions (last year):</text>
-<text x="400" y="224" fill="#a9fff5" font-size="18" font-weight="700">1,851</text>
+<text x="400" y="224" fill="#a9fff5" font-size="18" font-weight="700">1,856</text>
 <text x="670" y="68" fill="#ff3e91" font-size="23" font-weight="700">Most Used Languages</text>
-<rect x="670.0" y="91" width="155.1" height="12" fill="#e5a982"/>
-<rect x="825.1" y="91" width="33.0" height="12" fill="#f1df58"/>
-<rect x="858.1" y="91" width="30.3" height="12" fill="#ed4b26"/>
-<rect x="888.4" y="91" width="28.3" height="12" fill="#53639b"/>
-<rect x="916.7" y="91" width="20.9" height="12" fill="#347fc4"/>
+<rect x="670.0" y="91" width="155.0" height="12" fill="#e5a982"/>
+<rect x="825.0" y="91" width="33.0" height="12" fill="#f1df58"/>
+<rect x="858.0" y="91" width="30.3" height="12" fill="#ed4b26"/>
+<rect x="888.3" y="91" width="28.4" height="12" fill="#53639b"/>
+<rect x="916.6" y="91" width="21.0" height="12" fill="#347fc4"/>
 <rect x="937.6" y="91" width="12.4" height="12" fill="#00b7d5"/>
 <circle cx="676" cy="132" r="6" fill="#e5a982"/>
 <text x="688" y="137" fill="#a9fff5" font-size="13" font-weight="600">Rust 55.4%</text>
@@ -39,9 +39,9 @@
 <text x="688" y="201" fill="#a9fff5" font-size="13" font-weight="600">PHP 7.5%</text>
 <circle cx="821" cy="196" r="6" fill="#00b7d5"/>
 <text x="833" y="201" fill="#a9fff5" font-size="13" font-weight="600">Go 4.4%</text>
-<text x="95" y="335" fill="#a9fff5" font-size="38" font-weight="700">1,851</text>
+<text x="95" y="335" fill="#a9fff5" font-size="38" font-weight="700">1,856</text>
 <text x="75" y="370" fill="#a9fff5" font-size="17" font-weight="600">Contributions in the last year</text>
-<text x="420" y="335" fill="#ffab00" font-size="38" font-weight="700">3</text>
+<text x="420" y="335" fill="#ffab00" font-size="38" font-weight="700">4</text>
 <text x="385" y="370" fill="#a9fff5" font-size="17" font-weight="600">Current streak (days)</text>
 <text x="740" y="335" fill="#a9fff5" font-size="38" font-weight="700">20</text>
 <text x="700" y="370" fill="#a9fff5" font-size="17" font-weight="600">Longest streak (days)</text>
